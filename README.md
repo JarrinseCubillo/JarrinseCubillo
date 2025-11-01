@@ -9,8 +9,7 @@
 
 - 🎓 I'm a Software Engineering 
 - 💻 I’m enthusiastic developer
-- ⚡ I love photography, programming, data science and movies 
-
+- ⚡ I love photography, programming, data science and movies
 
 #### Languages and Tools 
 <p>
@@ -40,13 +39,11 @@
   <code><img height="40" src="https://icon.icepanel.io/Technology/svg/Rider.svg" alt="Rider"></code>
   <code><img height="40" src="https://icon.icepanel.io/Technology/svg/RubyMine.svg" alt="RubyMine"></code>
   <code><img height="40" src="https://icon.icepanel.io/Technology/svg/DataGrip.svg" alt="DataGrip"></code>
-  <code><img height="40" src="https://icon.icepanel.io/Technology/svg/WebStorm.svg" alt="WebStorm"></code>
-
-  
-  
-
+  <code><img height="40" src="https://icon.icepanel.io/Technology/svg/WebStorm.svg" alt="WebStorm"></code> 
 </p>
 
+-----
+![Jarrinse GitHub stats](https://github-readme-stats.vercel.app/api?username=JarrinseCubillo&show_icons=true&theme=holi)
 -----
 #### Social <img height="30" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif">
  <p align='center'>
@@ -57,5 +54,3 @@
  
  </p>
 
-
------
