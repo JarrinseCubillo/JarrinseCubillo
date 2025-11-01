@@ -40,6 +40,9 @@
   <code><img height="40" src="https://icon.icepanel.io/Technology/svg/RubyMine.svg" alt="RubyMine"></code>
   <code><img height="40" src="https://icon.icepanel.io/Technology/svg/DataGrip.svg" alt="DataGrip"></code>
   <code><img height="40" src="https://icon.icepanel.io/Technology/svg/WebStorm.svg" alt="WebStorm"></code> 
+  <code><img height="40" src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="PostMan"></code> 
+  <code><img height="40" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" alt="Insomnia"></code> 
+  <code><img height="40" src="https://images.seeklogo.com/logo-png/53/1/apidog-logo-png_seeklogo-537308.png" alt="ApiDog"></code> 
 </p>
 
 -----
