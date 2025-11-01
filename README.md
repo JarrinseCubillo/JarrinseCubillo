@@ -50,7 +50,7 @@
 -----
 #### Social <img height="30" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif">
  <p align='center'>
- <a href="www.linkedin.com/in/jarrinsecubillo" target="_blank"><img height="100" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"></a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/jarrinsecubillo" target="_blank"><img height="100" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"></a>&nbsp;&nbsp;
  <a href="https://x.com/javsCC" target="_blank"><img height="100" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"></a>&nbsp;&nbsp;
  <a href="https://instagram.com/jarrinseccastillo" target="_blank"><img height="100" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"></a>&nbsp;&nbsp;
 
