@@ -42,7 +42,7 @@
   <code><img height="40" src="https://icon.icepanel.io/Technology/svg/WebStorm.svg" alt="WebStorm"></code> 
   <code><img height="40" src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="PostMan"></code> 
   <code><img height="40" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" alt="Insomnia"></code> 
-  <code><img height="40" src="https://images.seeklogo.com/logo-png/53/1/apidog-logo-png_seeklogo-537308.png" alt="ApiDog"></code> 
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/36/ApidogLogo-2025.svg" alt="ApiDog"></code> 
 </p>
 
 -----
