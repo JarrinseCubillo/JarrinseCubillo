@@ -46,8 +46,10 @@
 </p>
 
 -----
-![Jarrinse GitHub stats](https://github-readme-stats.vercel.app/api?username=JarrinseCubillo&show_icons=true&theme=holi)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JarrinseCubillo&show_icons=true&locale=en&layout=compact&theme=holi" alt="JarrinseCubillo" /></p>
+
 -----
+
 #### Social <img height="30" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif">
  <p align='center'>
  <a href="https://www.linkedin.com/in/jarrinsecubillo" target="_blank"><img height="100" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"></a>&nbsp;&nbsp;
