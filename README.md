@@ -33,6 +33,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL"></code>
   <code><img height="40" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="PostgreSQL"></code>
   <code><img height="40" src="https://icon.icepanel.io/Technology/svg/RSpec.svg" alt="Rspec"></code>
+  <code><img height="40" src="https://logodix.com/logo/2029138.png" alt="Xunit"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
   <code><img height="40" src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg" alt="Visual Code Studio"></code>
   <code><img height="40" src="https://icon.icepanel.io/Technology/svg/JetBrains.svg" alt="JetBrains"></code>
