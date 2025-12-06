@@ -47,7 +47,7 @@
 </p>
 
 -----
-<p><img align="center" src="https://github-stats-bice.vercel.app/api/top-langs?username=JarrinseCubillo&show_icons=true&locale=en&layout=compact&theme=holi" alt="JarrinseCubillo" /></p>
+<p><img align="center" src="https://github-readme-stats-gray-ten-75.vercel.app/api/top-langs?username=JarrinseCubillo&show_icons=true&locale=en&layout=compact&theme=holi" alt="JarrinseCubillo" /></p>
 
 -----
 
