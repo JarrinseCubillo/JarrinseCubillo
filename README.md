@@ -47,10 +47,7 @@
 </p>
 
 -----
-<p><img align="center" src="https://github-readme-stats-gray-ten-75.vercel.app/api/top-langs?username=JarrinseCubillo&show_icons=true&locale=en&layout=compact&theme=holi" alt="JarrinseCubillo" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=JarrinseCubillo&show_icons=true&locale=en&layout=compact&theme=holi" alt="JarrinseCubillo" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 -----
 
